@@ -1,6 +1,6 @@
 # Ewasm AssemblyScript demo
 
-The AssemblyScript project in this repository is a proof of concept barebones "ERC-20 style" implementation of a simple ledger. The main code lives in [main.ts](https://github.com/lrettig/wrc20-challenge/blob/master/assembly/main.ts). It allows anyone to check the token balance of an account, and a tokenholder to transfer some of their tokens to another account. Sample transaction data may be found on the [coding challenge gist](https://gist.github.com/axic/16158c5c88fbc7b1d09dfa8c658bc363).
+The AssemblyScript project in this repository is a proof of concept barebones "ERC-20 style" implementation of a simple ledger. The main code lives in [main.ts](https://github.com/lrettig/wrc20-challenge/blob/master/assembly/src/main.ts). It allows anyone to check the token balance of an account, and a tokenholder to transfer some of their tokens to another account. Sample transaction data may be found on the [coding challenge gist](https://gist.github.com/axic/16158c5c88fbc7b1d09dfa8c658bc363).
 
 ## Steps to compile, deploy, and test
 
